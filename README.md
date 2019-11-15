@@ -1,0 +1,2 @@
+# rabbitmq-studies
+RabbitMq Studies.
